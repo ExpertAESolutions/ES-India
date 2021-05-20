@@ -22,6 +22,7 @@ const OurClients = () => {
       <div className={classes.Container}>
         <div className={classes.Clients} id="clients">
           <h2>Our Clients</h2>
+          <p className={classes.subline}>Some of the Esteemed Clients are as given below</p>
         </div>
         <div className={classes.Section}>
           <div className={classes.Content}>
