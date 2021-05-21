@@ -20,6 +20,11 @@
 .pointContainerMobC ul {
   margin-top: 12px;
 }
+.subline {
+  text-align: center;
+  margin: 50px 12px;
+  font-size: 14px;
+}
 @media only screen and (max-width: 800px) {
   .knowMore {
     font-size: 10px;

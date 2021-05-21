@@ -155,10 +155,10 @@ const Header = () => {
             <a href="#abt">About us</a>
           </li>
           <li>
-            <a href="#works">Works</a>
+            <a href="#specs">Specializations</a>
           </li>
           <li>
-            <a href="#specs">Specializations</a>
+            <a href="#works">Works</a>
           </li>
 
           <li>
