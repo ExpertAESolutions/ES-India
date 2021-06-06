@@ -954,28 +954,11 @@ const Work = () => {
           <br />
           <ul>
             <li>
-                Design of internal roads of arrival and departure terminal of Hindon Airport, Ghaziabad
+            Converting existing seven storeyed building of American Centre, New Delhi into a clean air
+building as per EPA norms
             </li>
             <li>
-                Strengthening measures for Janak Setu, Delhi
-            </li>
-            <li>
-                Strengthening measures for old Nizamuddin bridge, New Delhi
-            </li>
-            <li>
-                Strengthening measures for old Wazirabad bridge, New Delhi
-            </li>
-            <li>
-                Structural design and drawings for addition of one lane in existing bridge in Bullandsahar, UP
-            </li>
-            <li>
-                Converting existing seven storeyed building of American Centre, New Delhi into a clean air
-            </li>
-            <li>
-                building as per EPA norms
-            </li>
-            <li>
-                Water recycling and drip irrigation in American Centre, New Delhi
+            Water recycling and drip irrigation in American Centre, New Delhi
             </li>
           </ul>
           <center>
@@ -1012,7 +995,7 @@ const Work = () => {
           <Fade direction={"right"} triggerOnce={true}>
             <div>
               <h5 style={{ marginLeft: "25px", marginRight: "none" }}>
-                Miscellaneous
+              Energy Efficient Green Structures
               </h5>
               <div id={classes.line}></div>
               <p

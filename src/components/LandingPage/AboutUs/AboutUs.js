@@ -144,7 +144,7 @@ const AboutUs = () => {
               </center>
               <center>
                 <p className={classes.name}>
-                  Er. P. C <b>Sharma</b>
+                  Er. P. C. <b>Sharma</b>
                 </p>
                 <p className={classes.post}>Chief Executive Officer</p>
                 <p  onClick={ 
