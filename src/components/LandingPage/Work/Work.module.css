@@ -5,6 +5,10 @@
   font-weight: 400;
   color: #747474d0;
 }
+#Head {
+  margin: 3rem;
+  margin-left: -30vw;
+}
 .knowMore:hover {
   cursor: pointer;
   color: #747474;
@@ -15,6 +19,11 @@
 }
 .pointContainerMobC ul {
   margin-top: 12px;
+}
+.subline {
+  text-align: center;
+  margin: 50px 12px;
+  font-size: 14px;
 }
 @media only screen and (max-width: 800px) {
   .knowMore {

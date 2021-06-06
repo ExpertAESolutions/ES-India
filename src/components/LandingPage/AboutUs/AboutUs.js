@@ -174,7 +174,7 @@ const AboutUs = () => {
               </center>
               <center>
                 <p className={classes.name}>
-                  Dr. Jay <b>Prakash</b>
+                  Dr. Jai <b>Prakash</b>
                 </p>
                 <p className={classes.post}>Managing Director</p>
                 <p  onClick={ 

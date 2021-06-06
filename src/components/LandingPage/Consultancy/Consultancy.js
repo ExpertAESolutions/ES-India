@@ -11,7 +11,7 @@ const Consultancy = () => {
     <div>
       <div className={classes.Container1} id="consultancy">
         <div className={classes.Specialization} id="specs">
-          <h2>Our Specializations</h2>
+          <h2>Structural Design and Proof Checking</h2>
         </div>
         <div className={classes.spiderContainer}>
           <img id={classes.aocspider} src={AOCspider}></img>
