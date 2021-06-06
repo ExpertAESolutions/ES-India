@@ -50,13 +50,13 @@ const Header = () => {
                       color: "#747474",
                       textDecoration: "none",
                     }}
-                    href="#works"
+                    href="#specs"
                     onClick={() => {
                       setShowMenu(!showMenu);
                       toggleClass();
                     }}
                   >
-                    Works
+                    Specializations
                   </a>
                 </li>
                 <li>
@@ -66,13 +66,13 @@ const Header = () => {
                       color: "#747474",
                       textDecoration: "none",
                     }}
-                    href="#specs"
+                    href="#works"
                     onClick={() => {
                       setShowMenu(!showMenu);
                       toggleClass();
                     }}
                   >
-                    Specialisations
+                    Works
                   </a>
                 </li>
 
@@ -155,10 +155,10 @@ const Header = () => {
             <a href="#abt">About us</a>
           </li>
           <li>
-            <a href="#works">Works</a>
+            <a href="#specs">Specializations</a>
           </li>
           <li>
-            <a href="#specs">Specializations</a>
+            <a href="#works">Works</a>
           </li>
 
           <li>
