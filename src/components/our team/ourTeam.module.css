@@ -183,14 +183,13 @@
 @media only screen and (max-width: 850px) {
   .bioCore p {
     position: absolute;
-    background-color: #e2e2e2;
-    text-align: unset;
+    text-align: justify;
     padding: 20px 30px;
     padding-top: 10px;
     font-size: 18px;
     font-weight: 300;
     line-height: 35px;
-    color: #444444;
+    color: #303030;
     height: 70vh;
     border-radius: 15px;
     overflow: auto;
@@ -198,13 +197,12 @@
     transition-duration: 0.4s;
   }
   .bioCore {
-    position: absolute;
     left: 50%;
-    margin-left: -35%;
+    margin-left: -47%;
     top: 50vh;
     margin-top: -35vh;
     height: 0vh;
-    width: 75%;
+    width: 95%;
     transition-duration: 0s;
     overflow: hidden;
   }

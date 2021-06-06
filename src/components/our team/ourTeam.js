@@ -39,7 +39,7 @@ const ourTeam = () => {
         <div className={classes.otherMembers}>
           <div>
             <p>
-              Er. P. C Sharma
+              Er. P. C. Sharma
             </p>
             <h5 className={classes.post1}>
               Former Head, Material Sciences,<br/> CSIR-Structural Engineering Research Centre, Ghaziabad
@@ -50,7 +50,7 @@ const ourTeam = () => {
           </div>
           <div>
             <p>
-              Dr. Jay Prakash
+              Dr. Jai Prakash
             </p>
             <h5 className={classes.post1}>
               BE (Civil), ME (Structures), Ph.D
@@ -127,7 +127,7 @@ const ourTeam = () => {
           </div>
           <div>
             <p>
-            Er. Vikas C Jaiswal
+            Er. Vikas C. Jaiswal
             </p>
             <h5 className={classes.post1}>
               BE (Civil), MBA
