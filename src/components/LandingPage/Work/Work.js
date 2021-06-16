@@ -232,6 +232,17 @@ const Work = () => {
                     .classList.remove(classes.pointContainerMobO);
                   document
                     .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);document
+                    .getElementById("DDM7")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM7")
+                    .classList.add(classes.pointContainerMobC);
+                    document
+                    .getElementById("DDM8")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM8")
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
@@ -292,6 +303,17 @@ const Work = () => {
                 .classList.remove(classes.pointContainerMobO);
               document
                 .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+                document
+                .getElementById("DDM8")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM8")
                 .classList.add(classes.pointContainerMobC);
             }}
           ></BsFillXCircleFill>
@@ -391,6 +413,17 @@ const Work = () => {
                     .classList.remove(classes.pointContainerMobO);
                   document
                     .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);document
+                    .getElementById("DDM7")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM7")
+                    .classList.add(classes.pointContainerMobC);
+                    document
+                    .getElementById("DDM8")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM8")
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
@@ -451,6 +484,17 @@ const Work = () => {
                 .classList.remove(classes.pointContainerMobO);
               document
                 .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+                document
+                .getElementById("DDM8")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM8")
                 .classList.add(classes.pointContainerMobC);
             }}
           ></BsFillXCircleFill>
@@ -576,6 +620,17 @@ const Work = () => {
                     .classList.remove(classes.pointContainerMobO);
                   document
                     .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);document
+                    .getElementById("DDM7")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM7")
+                    .classList.add(classes.pointContainerMobC);
+                    document
+                    .getElementById("DDM8")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM8")
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
@@ -636,6 +691,17 @@ const Work = () => {
                 .classList.remove(classes.pointContainerMobO);
               document
                 .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+                document
+                .getElementById("DDM8")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM8")
                 .classList.add(classes.pointContainerMobC);
             }}
           ></BsFillXCircleFill>
@@ -730,6 +796,17 @@ const Work = () => {
                     .classList.remove(classes.pointContainerMobO);
                   document
                     .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);document
+                    .getElementById("DDM7")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM7")
+                    .classList.add(classes.pointContainerMobC);
+                    document
+                    .getElementById("DDM8")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM8")
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
@@ -790,6 +867,17 @@ const Work = () => {
                 .classList.remove(classes.pointContainerMobO);
               document
                 .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+                document
+                .getElementById("DDM8")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM8")
                 .classList.add(classes.pointContainerMobC);
             }}
           ></BsFillXCircleFill>
@@ -801,16 +889,7 @@ const Work = () => {
             </li>
             <li>
               Structural repair measures for mosque at Aden, Yemen.
-            </li> 
-            <li>
-              Rehabilitation measures for main dam and tunnels of Tala HEP, Bhutan
-            </li> 
-            <li>
-              Rehabilitation measures for old Indraprastha Power House, New Delhi
-            </li> 
-            <li>
-              Underwater Inspection, investigations and strengthening of Ramnagar Powerhouse, Kalagarh
-            </li>   
+            </li>    
           </ul>
           <center>
             <p
@@ -846,7 +925,7 @@ const Work = () => {
           <Fade direction={"right"} triggerOnce={true}>
             <div>
               <h5 style={{ marginLeft: "25px", marginRight: "none" }}>
-                Heritage Structures and Power Structures
+                Heritage Structures
               </h5>
               <div id={classes.line}></div>
               <p
@@ -887,6 +966,17 @@ const Work = () => {
                     .classList.remove(classes.pointContainerMobO);
                   document
                     .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);document
+                    .getElementById("DDM7")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM7")
+                    .classList.add(classes.pointContainerMobC);
+                    document
+                    .getElementById("DDM8")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM8")
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
@@ -947,6 +1037,17 @@ const Work = () => {
                 .classList.remove(classes.pointContainerMobO);
               document
                 .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+                document
+                .getElementById("DDM8")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM8")
                 .classList.add(classes.pointContainerMobC);
             }}
           ></BsFillXCircleFill>
@@ -954,11 +1055,19 @@ const Work = () => {
           <br />
           <ul>
             <li>
-            Converting existing seven storeyed building of American Centre, New Delhi into a clean air
-building as per EPA norms
+              Design of internal roads of arrival and departure terminal of Hindon Airport, Ghaziabad
             </li>
             <li>
-            Water recycling and drip irrigation in American Centre, New Delhi
+              Strengthening measures for Janak Setu, Delhi
+            </li>
+            <li>
+              Strengthening measures for old Nizamuddin bridge, New Delhi
+            </li>
+            <li>
+              Strengthening measures for old Wazirabad bridge, New Delhi
+            </li>
+            <li>
+              Structural design and drawings for addition of one lane in existing bridge in Bullandsahar, UP
             </li>
           </ul>
           <center>
@@ -995,7 +1104,7 @@ building as per EPA norms
           <Fade direction={"right"} triggerOnce={true}>
             <div>
               <h5 style={{ marginLeft: "25px", marginRight: "none" }}>
-              Energy Efficient Green Structures
+              Highways and Bridges
               </h5>
               <div id={classes.line}></div>
               <p
@@ -1007,6 +1116,365 @@ building as per EPA norms
                   document
                     .getElementById("DDM6")
                     .classList.add(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM2")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM2")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM3")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM3")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM4")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM4")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM5")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM5")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM1")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM1")
+                    .classList.add(classes.pointContainerMobC);document
+                    .getElementById("DDM7")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM7")
+                    .classList.add(classes.pointContainerMobC);
+                    document
+                    .getElementById("DDM8")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM8")
+                    .classList.add(classes.pointContainerMobC);
+                }}
+              >
+                know more
+              </p>
+            </div>
+          </Fade>
+        </div>
+        <span className={classes.pointContainerMobC} id="DDM7">
+          <h6
+            style={{
+              float: "left",
+              margin: "0px",
+              marginTop: "8px",
+              fontFamily: '"Playfair Display"',
+              fontSize: "20px",
+              color: "#242424",
+            }}
+          >
+            Details:
+          </h6>
+          <BsFillXCircleFill
+            className={classes.closeicon}
+            style={{ fontSize: "20px", float: "right", margin: "10px" }}
+            onClick={() => {
+              document
+                .getElementById("DDM1")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM1")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM2")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM2")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM3")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM3")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM4")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM4")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM5")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM5")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM6")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+                document
+                .getElementById("DDM8")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM8")
+                .classList.add(classes.pointContainerMobC);
+            }}
+          ></BsFillXCircleFill>
+          <br />
+          <br />
+          <ul>
+          <li>
+              Rehabilitation measures for main dam and tunnels of Tala HEP, Bhutan
+            </li> 
+            <li>
+              Rehabilitation measures for old Indraprastha Power House, New Delhi
+            </li> 
+            <li>
+              Underwater Inspection, investigations and strengthening of Ramnagar Powerhouse, Kalagarh
+            </li>
+          </ul>
+          <center>
+            <p
+              className={classes.knowMore}
+              style={{
+                padding: "5px 20px",
+                fontSize: "13px",
+                borderRadius: "6px",
+                backgroundColor: "#747474",
+                color: "#cfcfcf",
+                width: "fit-content",
+                marginTop: "0px",
+              }}
+              onClick={() => {
+              document
+                .getElementById("DDM7")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM7")
+                .classList.add(classes.pointContainerMobC);
+              }}
+            >
+              close
+            </p>
+          </center>
+        </span>
+        <div className={classes.work_box}>
+          <div>
+            <Fade direction={"left"} triggerOnce={true}>
+              <img src={img6} alt=""></img>
+            </Fade>
+          </div>
+          <Fade direction={"right"} triggerOnce={true}>
+            <div>
+              <h5 style={{ marginLeft: "25px", marginRight: "none" }}>
+              Power Structures
+              </h5>
+              <div id={classes.line}></div>
+              <p
+                className={classes.knowMore}
+                onClick={() => { 
+                document
+                  .getElementById("DDM7")
+                  .classList.remove(classes.pointContainerMobC);
+                document
+                  .getElementById("DDM7")
+                  .classList.add(classes.pointContainerMobO);
+                  document
+                  .getElementById("DDM8")
+                  .classList.remove(classes.pointContainerMobO);
+                document
+                  .getElementById("DDM8")
+                  .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM6")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM2")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM2")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM3")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM3")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM4")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM4")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM5")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM5")
+                    .classList.add(classes.pointContainerMobC);
+                  document
+                    .getElementById("DDM1")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM1")
+                    .classList.add(classes.pointContainerMobC);
+                }}
+              >
+                know more
+              </p>
+            </div>
+          </Fade>
+        </div>
+        <span className={classes.pointContainerMobC} id="DDM8">
+          <h6
+            style={{
+              float: "left",
+              margin: "0px",
+              marginTop: "8px",
+              fontFamily: '"Playfair Display"',
+              fontSize: "20px",
+              color: "#242424",
+            }}
+          >
+            Details:
+          </h6>
+          <BsFillXCircleFill
+            className={classes.closeicon}
+            style={{ fontSize: "20px", float: "right", margin: "10px" }}
+            onClick={() => {
+              document
+                .getElementById("DDM1")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM1")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM2")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM2")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM3")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM3")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM4")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM4")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM5")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM5")
+                .classList.add(classes.pointContainerMobC);
+              document
+                .getElementById("DDM6")
+                .classList.remove(classes.pointContainerMobO);
+              document
+                .getElementById("DDM6")
+                .classList.add(classes.pointContainerMobC);
+                document
+                  .getElementById("DDM7")
+                  .classList.remove(classes.pointContainerMobO);
+                document
+                  .getElementById("DDM7")
+                  .classList.add(classes.pointContainerMobC);
+                  document
+                  .getElementById("DDM8")
+                  .classList.remove(classes.pointContainerMobO);
+                document
+                  .getElementById("DDM8")
+                  .classList.add(classes.pointContainerMobC);
+            }}
+          ></BsFillXCircleFill>
+          <br />
+          <br />
+          <ul>
+            <li>
+            Converting existing seven storeyed building of American Centre, New Delhi into a clean air
+building as per EPA norms
+            </li>
+            <li>
+            Water recycling and drip irrigation in American Centre, New Delhi
+            </li>
+          </ul>
+          <center>
+            <p
+              className={classes.knowMore}
+              style={{
+                padding: "5px 20px",
+                fontSize: "13px",
+                borderRadius: "6px",
+                backgroundColor: "#747474",
+                color: "#cfcfcf",
+                width: "fit-content",
+                marginTop: "0px",
+              }}
+              onClick={() => {
+                document
+                  .getElementById("DDM8")
+                  .classList.remove(classes.pointContainerMobO);
+                document
+                  .getElementById("DDM8")
+                  .classList.add(classes.pointContainerMobC);
+              }}
+            >
+              close
+            </p>
+          </center>
+        </span>
+        <div className={classes.work_box}>
+          <div>
+            <Fade direction={"left"} triggerOnce={true}>
+              <img src={img6} alt=""></img>
+            </Fade>
+          </div>
+          <Fade direction={"right"} triggerOnce={true}>
+            <div>
+              <h5 style={{ marginLeft: "25px", marginRight: "none" }}>
+              Energy Efficient Green Structures
+              </h5>
+              <div id={classes.line}></div>
+              <p
+                className={classes.knowMore}
+                onClick={() => {
+                  document
+                  .getElementById("DDM7")
+                  .classList.remove(classes.pointContainerMobO);
+                document
+                  .getElementById("DDM7")
+                  .classList.add(classes.pointContainerMobC);
+                  document
+                  .getElementById("DDM8")
+                  .classList.remove(classes.pointContainerMobC);
+                document
+                  .getElementById("DDM8")
+                  .classList.add(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM6")
+                    .classList.remove(classes.pointContainerMobO);
+                  document
+                    .getElementById("DDM6")
+                    .classList.add(classes.pointContainerMobC);
                   document
                     .getElementById("DDM2")
                     .classList.remove(classes.pointContainerMobO);
