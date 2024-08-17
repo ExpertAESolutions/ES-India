@@ -42,33 +42,33 @@ const AboutUs = () => {
       <div className={classes.bioCore} id="bio">
 
         <p id="bioMD"> 
-        <b>Managing Director</b>
+        {/* <b>Managing Director</b> */}
         <BsFillXCircleFill className={classes.closeicon} style={{ fontSize: "20px",float: "right",}} 
           onClick={
             ()=>{
               document.getElementById('bio').style.height="0vh";
               document.getElementById('bio').style.transitionDelay="0.4s";
-              document.getElementById('bioMD').style.opacity="0";
+              // document.getElementById('bioMD').style.opacity="0";
               document.getElementById('bioCEO').style.opacity="0";
-              document.getElementById('bioMD').style.zIndex="1";
+              // document.getElementById('bioMD').style.zIndex="1";
               document.getElementById('bioCEO').style.zIndex="1";
             }
           }
         ></BsFillXCircleFill>
-        <br/>
+        {/* <br/>
         Dr. Jai Prakash, born in 1942, obtained Bachelor of Civil Engineering in 1967 and Master in Structural Engineering in 1975 from Motilal Nehru Regional Engineering College, Allahabad and Ph.D in Structural Engineering from Indian Institute of Technology, Kanpur in 1981. He has 50 years of experience at Motilal Nehru Regional Engineering College, Allahabad (as Lecturer, Reader and Professor) from 1967 to 2002, Kumaon Engineering College, Dwarahat, Uttarakhand (as Principal) from 2000 to 2002, GLA Institute of Technology & Management, Mathura (as Director from 2002 to 2007 and as Director General from 2007 to 2010); GLA University, Mathura (as Vice-Chancellor) from 2010 to 2013. Since 2014, he is advisor to several Engineering Colleges.
         <br/>
         He has done lot of works as a Structural Engineer. Some of the works include Multi-storeyed buildings of INMANTECH, Ghaziabad; Multi-storeyed buildings of Luxe Paradize, Agra; Building of IVPS school Noida for vertical extension; Old Nizamuddin bridge, New Delhi; Old Wazirabad bridge, New Delhi; G.B. Pant Institute of Social Sciences Allahabad; Multi-storeyed dental college building at Aurangabad, Maharashtra.; Multi-storeyed Hostel building for BIET, Jhansi; Overhead water tanks of different capacities varying from 3000 KL to 250 KL; Lighting Tower at Indira Gandhi stadium at New Delhi for ASIAD 1982; Multi-storied residential buildings for Reserve Bank of India, Kanpur; Mosque at Aden, Yemen; Intake structures of Ramnagar Powerhouse, Kalagarh; Industrial Estate at Motilal Nehru Regional Engineering College, Allahabad; School building for ITI Naini, Allahabad, etc.
-        <br/>
+        <br/> */}
         <center>
           <button className={classes.close}
                   onClick={
                     ()=>{
                       document.getElementById('bio').style.height="0vh";
                       document.getElementById('bio').style.transitionDelay="0.4s";
-                      document.getElementById('bioMD').style.opacity="0";
+                      // document.getElementById('bioMD').style.opacity="0";
                       document.getElementById('bioCEO').style.opacity="0";
-                      document.getElementById('bioMD').style.zIndex="1";
+                      // document.getElementById('bioMD').style.zIndex="1";
                       document.getElementById('bioCEO').style.zIndex="1";
                     }
                   }
@@ -85,9 +85,9 @@ const AboutUs = () => {
             ()=>{
               document.getElementById('bio').style.height="0vh";
               document.getElementById('bio').style.transitionDelay="0.4s";
-              document.getElementById('bioMD').style.opacity="0";
+              // document.getElementById('bioMD').style.opacity="0";
               document.getElementById('bioCEO').style.opacity="0";              
-              document.getElementById('bioMD').style.zIndex="1";
+              // document.getElementById('bioMD').style.zIndex="1";
               document.getElementById('bioCEO').style.zIndex="1";
             }
           }
@@ -105,9 +105,9 @@ const AboutUs = () => {
                     ()=>{
                       document.getElementById('bio').style.height="0vh";
                       document.getElementById('bio').style.transitionDelay="0.4s";
-                      document.getElementById('bioMD').style.opacity="0";
+                      // document.getElementById('bioMD').style.opacity="0";
                       document.getElementById('bioCEO').style.opacity="0";
-                      document.getElementById('bioMD').style.zIndex="1";
+                      // document.getElementById('bioMD').style.zIndex="1";
                       document.getElementById('bioCEO').style.zIndex="1";
                     }
                   }
@@ -137,7 +137,7 @@ const AboutUs = () => {
                       document.getElementById('bio').style.transitionDelay="0s";
                       document.getElementById('bioCEO').style.opacity="1";
                       document.getElementById('bioCEO').style.zIndex="4";
-                      document.getElementById('bioMD').style.zIndex="1";
+                      // document.getElementById('bioMD').style.zIndex="1";
                       } 
                     }
                 />
@@ -153,12 +153,12 @@ const AboutUs = () => {
                       document.getElementById('bio').style.transitionDelay="0s";
                       document.getElementById('bioCEO').style.opacity="1";
                       document.getElementById('bioCEO').style.zIndex="4";
-                      document.getElementById('bioMD').style.zIndex="1";
+                      // document.getElementById('bioMD').style.zIndex="1";
                       } 
                     } style={{cursor:"pointer",}}>know more</p>
               </center>
             </td>
-            <td className={classes.imgAdjustL}>
+            {/* <td className={classes.imgAdjustL}>
               <center>
                 <img alt="img" id="MD" src={MDimg} 
                      onClick={ 
@@ -187,7 +187,7 @@ const AboutUs = () => {
                       } 
                     } style={{cursor:"pointer",}}>know more</p>
               </center>
-            </td>
+            </td> */}
           </tr>
         </table>
         </center>
