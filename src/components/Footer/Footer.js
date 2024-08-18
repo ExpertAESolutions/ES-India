@@ -22,9 +22,9 @@ const Footer = () => {
           </a>
           <div className={classes.AdContainer}>
             <IoCall className={classes.Icons} />
-            <div>+91-9810285722, 9811407026, 9873661588</div>
+            <div>+91-9810285722, 9811407026</div>
           </div>
-          <div>
+          {/* <div>
             <div className={classes.AdContainer}>
               <div>
                 <MdLocationOn className={classes.Icons} />
@@ -35,7 +35,7 @@ const Footer = () => {
                 PIN-201304 India.
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div>
             <div className={classes.AdContainer}>
