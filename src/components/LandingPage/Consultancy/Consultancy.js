@@ -27,8 +27,6 @@ const Consultancy = () => {
           <div className={classes.para}>
           <p className={classes.service2}>
               Conservation of Heritage Structures
-          <p className={classes.service2}>
-              Conservation of Heritage Structures
             </p>
             <hr />
             <p className={classes.service2}>Health Monitoring of Structures</p>
@@ -105,7 +103,6 @@ const Consultancy = () => {
         </div>
         <div className={classes.sec2}>
           <div>
-          <p className={classes.service1}>
           <p className={classes.service1}>
               Designing, Planning and Coordinating Architectural Services
             </p>
