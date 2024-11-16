@@ -33,6 +33,13 @@ import PT from "../../../assets/Clients/PT.jpg";
 import TataSteel from "../../../assets/Clients/tata-steel.jpg";
 import Tristar from "../../../assets/Clients/Tristar.png";
 import UPBC from "../../../assets/Clients/UPBC.jpg";
+import BDA from "../../../assets/Clients/BDA.jpeg";
+import IDPL from "../../../assets/Clients/IDPL.jpeg";
+import SamIndia from "../../../assets/Clients/Sam-India.jpg";
+import PT from "../../../assets/Clients/PT.jpg";
+import TataSteel from "../../../assets/Clients/tata-steel.jpg";
+import Tristar from "../../../assets/Clients/Tristar.png";
+import UPBC from "../../../assets/Clients/UPBC.jpg";
 
 const OurClients = () => {
   return (
@@ -43,8 +50,12 @@ const OurClients = () => {
           <p className={classes.subline}>
             Some of the Esteemed Clients are as given below
           </p>
+          <p className={classes.subline}>
+            Some of the Esteemed Clients are as given below
+          </p>
         </div>
         <div className={classes.Section}>
+          {/* start */}
           {/* start */}
           <div className={classes.Content}>
             <img
@@ -87,6 +98,17 @@ const OurClients = () => {
               alt="BM Institute, Ahmedabad, Gujarat"
             />
           </div>
+          {/* start */}
+          <div className={classes.Content}>
+            <img className={classes.Image} src={BIET} alt="BIET, Jhansi, UP" />
+          </div>{" "}
+          <div className={classes.Content}>
+            <img
+              className={classes.Image}
+              src={BM}
+              alt="BM Institute, Ahmedabad, Gujarat"
+            />
+          </div>
           <div className={classes.Content}>
             <img
               className={classes.Image}
@@ -102,6 +124,11 @@ const OurClients = () => {
             />
           </div>{" "}
           <div className={classes.Content}>
+            <img
+              className={classes.Image}
+              src={QDA}
+              alt="Ghaziabad Development Authority, UP"
+            />
             <img
               className={classes.Image}
               src={QDA}
