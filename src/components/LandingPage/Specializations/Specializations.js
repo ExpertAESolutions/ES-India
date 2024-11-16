@@ -94,7 +94,7 @@ const Spec = () => {
             <img src={Heritage} alt="" />
           </div>
         </div>
-        {/* <div className={classes.Section}>
+        <div className={classes.Section}>
           <div className={classes.leftSec1}>
             <img src={tunnel} alt="" />
           </div>
@@ -102,7 +102,7 @@ const Spec = () => {
             <h5>Tunnels</h5>
             <p></p>
           </div>
-        </div> */}
+        </div>
       </div>
     </div>
   );
