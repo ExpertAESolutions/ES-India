@@ -25,46 +25,50 @@ const Consultancy = () => {
             <img src={sec1} alt="sec1"></img>
           </div>
           <div className={classes.para}>
-            <p className={classes.service2}>
-              Repair, Rehabilitation and Retrofitting
-            </p>
-            <hr />
-            <p className={classes.service2}>Seismic Vulnerability Assessment</p>
-            <hr />
-            <p className={classes.service2}>
+          <p className={classes.service2}>
               Conservation of Heritage Structures
             </p>
             <hr />
-            <p className={classes.service2}>Sustainable Eco-friendly Design</p>
+            <p className={classes.service2}>Health Monitoring of Structures</p>
             <hr />
-            <p className={classes.service2}>Air, Water and Energy engineering</p>
-            <hr/>
-            <p className={classes.service2}>Converting old envelope buildings into clean air buildings</p>
+            <p className={classes.service2}>Rainwater Harvesting and Water Cycling </p>
+            <hr />
+            <p className={classes.service2}>
+              Repair, Rehabilitation & Retrofitting
+            </p>
+            <hr />
+            <p className={classes.service2}>Seismic Vulnerability Assessment</p>
+            
+            {/* 
+            
+            
+             */}
+            {/* <hr />
+            <p className={classes.service2}>Air, Water and Energy engineering</p> */}
+            {/* <hr/>
+            <p className={classes.service2}>Converting old envelope buildings into clean air buildings</p> */}
+            
+            
           </div>
         </div>
         <div className={classes.sec2}>
           <div>
-            <p className={classes.service1}>
-              Soil Testing and Foundation Design
-            </p>
-            <hr />
-            <p className={classes.service1}>
+          <p className={classes.service1}>
               Energy Efficient Green Structures
-            </p>
-            <hr />
-            <p className={classes.service1}>
-              Project Management
-            </p>
-            <hr />
-            <p className={classes.service1}>Structural Design & Detailing</p>
-            <hr />
-            <p className={classes.service1}>
-              Structural Stability Certifications
             </p>
             <hr/>
             <p className={classes.service1}>Heating, Ventilation and Air-conditioning</p>
             <hr />
             <p className={classes.service1}>Interior design and renovation</p>
+            <hr />
+            <p className={classes.service1}>
+              Project Management
+            </p>
+            <hr />
+            <p className={classes.service1}>
+              Soil Testing & Foundation Design
+            </p>
+            
           </div>
           <div className={classes.parent}>
             <img src={sec2} alt="sec1"></img>
@@ -78,31 +82,28 @@ const Consultancy = () => {
             <p className={classes.service2}>
               Condition Assessment, Distress Diagnosis & Non-destructive Testing
             </p>
+            <hr/>
+            <p className={classes.service2}>Leakage and seepage detection</p>
             <hr />
             <p className={classes.service2}>
-              Project Management and Specialized Repair
+              Specialized Repair
             </p>
+            <hr />
+            <p className={classes.service2}>Tapping Solar Energy</p>
             <hr />
             <p className={classes.service2}>
               Third Party Quality Assurance and Auditing
             </p>
-            <hr />
-            <p className={classes.service2}>Tapping Solar Energy</p>
+            {/* 
+            
+
             <hr/>
-            <p className={classes.service2}>Leakage and seepage detection</p>
-            <hr/>
-            <p className={classes.service2}>Passive air conditioning</p>
+            <p className={classes.service2}>Passive air conditioning</p> */}
           </div>
         </div>
         <div className={classes.sec2}>
           <div>
-            <p className={classes.service1}>
-              Training and Knowledge Dissemination
-            </p>
-            <hr />
-            <p className={classes.service1}>Health Monitoring</p>
-            <hr />
-            <p className={classes.service1}>
+          <p className={classes.service1}>
               Designing, Planning and Coordinating Architectural Services
             </p>
             <hr />
@@ -113,14 +114,35 @@ const Consultancy = () => {
             <p className={classes.service1}>
               Thermography imaging for health checks
             </p>
-            <hr/>
+            <hr />
+            <p className={classes.service1}>
+              Training and Knowledge Dissemination
+            </p>
+            <hr />
+            <p className={classes.service1}>Structural Design & Detailing</p>
+            <hr />
+            <p className={classes.service1}>Structural Safety Audit</p>
+            <hr />
+            <p className={classes.service1}>
+              Structural Stability Certifications
+            </p>
+            <hr />
+            <p className={classes.service2}>Sustainable Eco-friendly Design</p>
+
+            {/* 
+            
+            <p className={classes.service1}>Health Monitoring</p>
+            <hr />
+            
+            */}
+            {/* <hr/>
             <p className={classes.service1}>
               Thermography imaging for health checks
-            </p>
-            <hr/>
+            </p> */}
+            {/* <hr/>
             <p className={classes.service1}>
               Specialized repairing
-            </p>
+            </p> */}
           </div>
           <div className={classes.parent}>
             <img src={sec4} alt="sec1"></img>
