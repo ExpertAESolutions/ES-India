@@ -9,7 +9,6 @@ import Highway from "../../../assets/Types of Structures/highway.jpg";
 import Dam from "../../../assets/Types of Structures/dam.jpg";
 import classes from "./Specializations.module.css";
 import tunnel from "../../../assets/Types of Structures/tunnel.jpg";
-import tunnel from "../../../assets/Types of Structures/tunnel.jpg";
 
 const Spec = () => {
   return (
