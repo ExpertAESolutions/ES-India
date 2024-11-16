@@ -31,7 +31,7 @@ import IDPL from "../../../assets/Clients/IDPL.jpeg";
 import SamIndia from "../../../assets/Clients/Sam-India.jpeg";
 import PT from "../../../assets/Clients/PT.jpg";
 import TataSteel from "../../../assets/Clients/tata-steel.jpg";
-import Tristar from "../../../assets/Clients/Tristar1.png";
+import Tristar from "../../../assets/Clients/Tristar.png";
 import UPBC from "../../../assets/Clients/UPBC.jpg";
 
 const OurClients = () => {
