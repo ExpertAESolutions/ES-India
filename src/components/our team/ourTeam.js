@@ -45,7 +45,7 @@ const ourTeam = () => {
               Former Head, Material Sciences,<br/> CSIR-Structural Engineering Research Centre, Ghaziabad
             </h5>
             <h5 className={classes.post2}>
-              Over 50 years in repair, rehabilitation and strengthening of structures, Use of Ferrocement, Rainwater harvesting, etc.
+              Over 55 years in R&D, repair, rehabilitation and strengthening of structures, Ferrocement, Rainwater harvesting, etc.
             </h5>
           </div>
           <div>
@@ -56,7 +56,7 @@ const ourTeam = () => {
               BE (Civil), ME (Structures), Ph.D
             </h5>
             <h5 className={classes.post2}>
-              Over 50 years in Earthquake Engineering, Earthquake Disaster Mitigation and Finite Element Application to Nonlinear Soil & Structural Dynamic Problems
+              Over 55 years in Earthquake Engineering, Earthquake Disaster Mitigation and Finite Element Application to Nonlinear Soil & Structural Dynamic Problems
             </h5>
           </div>
           <div>
@@ -67,7 +67,7 @@ const ourTeam = () => {
               BE (Civil), ME (Earthquake), PhD
             </h5>
             <h5 className={classes.post2}>
-            Over 50 years in design, material characterisation, quality control and software development.
+            Over 55 years in design, material characterisation, quality control and software development.
             </h5>
           </div>
           <div>
@@ -78,7 +78,7 @@ const ourTeam = () => {
               BE (Civil), MBA
             </h5>
             <h5 className={classes.post2}>
-            Over 45 years in construction, maintenance and repairs of highways, supervision and quality assurance work.
+            Over 50 years in construction, maintenance and repairs of highways, supervision and quality assurance work.
             </h5>
           </div>
           <div>
@@ -89,7 +89,7 @@ const ourTeam = () => {
             BE (Civil)
             </h5>
             <h5 className={classes.post2}>
-            Over 45 years in construction, maintenance and repairs of building and highways, contract management.
+            Over 55 years in construction, maintenance and repairs of building and highways, contract management.
             </h5>
           </div>
           <div>
@@ -100,7 +100,7 @@ const ourTeam = () => {
               BE (Civil)  
             </h5>
             <h5 className={classes.post2}>
-            Over 40 years in design of roads, quantity surveying, supervision and quality control of the highways.
+            Over 50 years in design of roads, quantity surveying, supervision and quality control of the highways.
             </h5>
           </div>
           <div>
@@ -111,7 +111,7 @@ const ourTeam = () => {
               BE (Civil), ME(Structures), PhD
             </h5>
             <h5 className={classes.post2}>
-            Over 30 years in design of structures, condition assessment of distressed structures, strengthening of structures and green structures.
+            Over 35 years in design of structures, condition assessment of distressed structures, strengthening of structures and green structures.
             </h5>
           </div>
           <div>
@@ -122,18 +122,18 @@ const ourTeam = () => {
               BE (Civil), ME(Soil)
             </h5>
             <h5 className={classes.post2}>
-            Over 25 years in soil investigations, surveying, piling and related works.
+            Over 35 years in soil investigations, surveying, piling and related works.
             </h5>
           </div>
           <div>
             <p>
-            Er. Vikas C. Jaiswal
+            Er. Gulshan Kumar
             </p>
             <h5 className={classes.post1}>
-              BE (Civil), MBA
+            BE (Civil), ME (Geotechnical)
             </h5>
             <h5 className={classes.post2}>
-            Over 28 years in strengthening of structures and green engineering in air, water and energy.
+            Over 38 years in design, construction, strengthening and maintenance of office as well as residential buildings.
             </h5>
           </div>
           <div style={{boxShadow: 'none',}}>

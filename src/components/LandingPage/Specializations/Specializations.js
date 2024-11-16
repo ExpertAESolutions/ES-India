@@ -8,6 +8,7 @@ import Urban from "../../../assets/Types of Structures/buildings.jpg";
 import Highway from "../../../assets/Types of Structures/highway.jpg";
 import Dam from "../../../assets/Types of Structures/dam.jpg";
 import classes from "./Specializations.module.css";
+import tunnel from "../../../assets/Types of Structures/tunnel.jpg";
 
 const Spec = () => {
   return (
@@ -27,13 +28,13 @@ const Spec = () => {
           </div>
           <div className={classes.rightSec1}>
             <h5>Buildings</h5>
-            <p></p>
+            <span>(residential, industrial, institutional, commercial, shopping complex, malls, etc.)</span>
           </div>
         </div>
         <div className={classes.Section}>
           <div className={classes.leftSec2}>
             <h5>Highways</h5>
-            <p></p>
+            <span>(Flexible as well as Rigid)</span>
           </div>
           <div className={classes.rightSec2}>
             <img src={Highway} alt="" />
@@ -50,7 +51,7 @@ const Spec = () => {
         </div>
         <div className={classes.Section}>
           <div className={classes.leftSec2}>
-            <h5>Water Structures</h5>
+            <h5>Water Retaining Structures</h5>
             <p></p>
           </div>
           <div className={classes.rightSec2}>
@@ -93,6 +94,15 @@ const Spec = () => {
             <img src={Heritage} alt="" />
           </div>
         </div>
+        {/* <div className={classes.Section}>
+          <div className={classes.leftSec1}>
+            <img src={tunnel} alt="" />
+          </div>
+          <div className={classes.rightSec1}>
+            <h5>Tunnels</h5>
+            <p></p>
+          </div>
+        </div> */}
       </div>
     </div>
   );

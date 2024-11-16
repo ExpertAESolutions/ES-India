@@ -22,14 +22,10 @@ const AboutUs = () => {
         <h2>About Us</h2>
       </center>
       <Media className={classes1.Info}>
-        We are a young firm of Engineers and Architects with a vast and
-        diversified experience in the areas of Designing, Planning and
-        Coordinating Civil engineering, Architecture and allied fields. The firm
-        has grown into a reputed consultancy firm and offers inter-disciplinary
-        services. The firm has continued to imbibe the vision of “Safe, Durable
-        and Economical Structures” from its ambitious, industrious and tenacious
-        partners. At present, the firm functions with multi-discipline and
-        experienced experts, well qualified staff and other professionals.
+<p>     We are a firm of Engineers and Architects with a vast and diversified experience in the areas of Designing, Planning and Coordinating Civil engineering, Architecture and Allied fields. The firm is a reputed consultancy firm and offers inter-disciplinary services. 
+<p></p>
+The firm has continued to imbibe the vision of “Safe, Durable and Economical Structures” from its ambitious, industrious and tenacious partners. The firm functions with multi-discipline and experienced experts, well qualified staff and other professionals. 
+</p>
       </Media>
       <div className={classes.TopButton}>
         <a
@@ -93,11 +89,31 @@ const AboutUs = () => {
           }
         ></BsFillXCircleFill>
         <br/>
-        Er. PC Sharma, born in 1940, has done Civil Engineering in 1958 from Roorkee, Uttarakahand. He has worked at Bhilai Steel Plant, Bhilai during 1958—1960; Central Building Research Institute, Roorkee during 1960—1965; Structural Engineering Research Centre, Roorkee during 1965‑1989; and Structural Engineering Research Centre, Ghaziabad during 1989‑2000. Presently, he is Chief Editor for two journals, New Building and Construction World and the MGS Modern Green Structures and Architecture‑Interior and Design, published from New Delhi.
-        
-        He has vast experience in repair, rehabilitation and retrofitting of Masonry and Concrete structures, Concrete technology, Research and Development, etc. He is consultant to Civil Engineering Industry for repair, rehabilitation and retrofitting of structures. Some of the works carried out by him include UNICEF projects on Design and training of ferrocement water reservoir structures and rain-water harvesting in North Kachar district‑Assam, Indore‑MP, Portblair Andaman & Nicobar, Ranikhet, UP, entire State of Himachal Pradesh; National Drinking water mission projects at SERC Ghaziabad; Multi-storeyed buildings of American Embassy, New Delhi; International Tobacco Company, Ghaziabad; IVPS school Noida for vertical extension; Multi-storeyed structure of IDPL Rishikesh; Multi‑storeyed buildings of Ryan International School, Faridabad; Central School complex at Hindon Air Field, Ghaziabad; Handling structure of Baildila Iron Ore Project, MP; Main dam and tunnels of Tala HEP, Bhutan; Multi‑storeyed building of IFFCO Headquarter, New Delhi; Multi‑storeyed building of CRRI, New Delhi; Hudco Place New Delhi‑Ansal Plaza basement parking; Bank building of Dharmarth Trust, Jammu; Rohtak Medical college & Hospital building, Rohtak; Laboratory building of Bureau of Indian Standards, Sahibabad, UP; Multi-storeyed Jammu Inter‑state Bus Terminus, Jammu; Old Indraprastha Power House, New Delhi Transmission complex of Indian Army, Meerut; Turbine testing laboratory building of BHEL, Hardwar; BM Institute, Ahmedabad; Calico Milling, Ahmedabad; Fire damaged structures of Narora Atomic Power Plant; Bailadia Iron Ore Project, MP; Multi‑storeyed GDA Housing Societies, Ghaziabad; Indira Gandhi Indoor Stadium, New Delhi; Main building of IIT Roorkee; Masonry arch bridge over Yamuna Canal , Bhallabhgarh; RCC structure of generation unit of Khatima Power Station; Janak Setu, Delhi; Old Nizamuddin bridge, New Delhi; Old Wazirabad bridge, New Delhi; St. James Church, Kashmiri Gate, New Delhi, etc.
-      
-        He has several patents and books (Do it yourself books on Ferrocement; and Rain water harvesting techniques for drinking purpose) to his credit. He was a Member, Expert committee, appointed by CPWD (Govt. of India) for preparation of CPWD Handbook on Repair and rehabilitation of RCC structures, published by CPWD, New Delhi in 2002 and 2011; and Member, Editorial committee of the above book. He was a visiting faculty at Asian Institute of Technology, Bangkok, Thailand.
+        <p>
+       Er. Sharma has done Civil Engineering in 1958 from Roorkee. He has worked at Bhilai Steel Plant during 1958–1960; Central Building Research Institute, Roorkee during 1960–1965; Structural Engineering Research Centre, Roorkee during 1965–1989; and Structural Engineering Research Centre, Ghaziabad (National Research Laboratory of CSIR, Ministry of Science and Technology, Govt. of India) during 1989-2000.
+       </p>
+       <p>
+       He has vast experience in repair, rehabilitation and retrofitting of Masonry and Concrete structures, Concrete technology, Research and Development, etc. Some of the works carried out by him include UNICEF projects on design and training of ferrocement water reservoir structures and rain-water harvesting; National Drinking water mission projects; Buildings of American Embassy, New Delhi; International Tobacco Company, Ghaziabad; Structure of IDPL Rishikesh; Buildings of Ryan International Schools; Handling structure of Baildila Iron Ore Project, MP; Main dam and tunnels of Tala HEP, Bhutan; Ansal Plaza basement parking, New Delhi; Rohtak Medical college & Hospital building; Multi-storeyed Jammu Inter-state Bus Terminus, Jammu; Old Indraprastha Power House, New Delhi; Transmission complex of Indian Army, Meerut; Fire damaged structures of Narora Atomic Power Plant; Bailadia Iron Ore Project, MP; Indira Gandhi Indoor Stadium, New Delhi; Masonry arch bridge over Yamuna Canal, Bhallabhgarh; RCC structure of Khatima Power Station; Janak Setu, Delhi; St. James Church, Kashmiri Gate, New Delhi, etc.  
+       </p>
+       <p>
+       He was a Member, Expert committee, of Handbook on ‘Repair and rehabilitation of RCC structures’, published by CPWD, New Delhi in 2002 and 2011. He was a visiting faculty at Asian Institute of Technology, Bangkok, Thailand for three times on Govt. of India secondment for teaching, writing of engineering manuals and organization of training courses for Malaysians and Indonesian Engineers at AIT. He is Life member of many Professional bodies including Indian Concrete Institute; American Concrete Institute-India Chapter; Indian Society for construction materials and structures. He has contributed significantly in the development of Indian Standards. He is Chief Editor of Four Civil Engineering and Architecture Magazines, published by NBM Media Pvt Ltd., New Delhi. 
+       </p>
+       <p>
+       Following patents, developed by him are accepted and are in use:
+       </p>
+       <li>
+       SEMI MECHANISED process for producing FC cylindrical units process technology being released by NRDC, New Delhi
+       </li>
+       <li>
+       Use of Hollow clay blocks for roofing and walling systems (Handled at SERC, Chennai)
+       </li>
+<li>
+Reflective verge stones for Highways
+</li><li>
+A Pull out equipment for non-destructive testing of concrete. This is important substitute for imported equipment (Handled at SERC, Chennai)
+</li>
+<p>He has authored several books on Ferrocement structures and published more than 100 research papers in National and International journals / Conferences / Workshops / Seminars
+</p>
         <br/>
         <center>
           <button className={classes.close}
