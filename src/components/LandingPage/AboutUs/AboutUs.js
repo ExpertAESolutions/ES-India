@@ -1,14 +1,13 @@
 import React from "react";
-
 import classes1 from "./AboutUs.module.css";
 import { Media } from "reactstrap";
-
-
 import classes from "../../our team/ourTeam.module.css";
 import CEOimg from "../../../assets/CEOimg.svg";
 import MDimg from "../../../assets/MDimg.svg";
 import { FiArrowUp } from "react-icons/fi";
 import { BsFillXCircleFill } from "react-icons/bs";
+import AOCspider from './../../../assets/AOCspider.svg';
+import AOCspiderImg from './../../../assets/AOCspider.png';
 
 const AboutUs = () => {
   return (
@@ -97,6 +96,7 @@ The firm has continued to imbibe the vision of “Safe, Durable and Economical S
        <br></br>
        Following patents, developed by him are accepted and are in use:
        <br></br>
+       <ul>
        <li>
        SEMI MECHANISED process for producing FC cylindrical units process technology being released by NRDC, New Delhi
        </li>
@@ -107,9 +107,8 @@ The firm has continued to imbibe the vision of “Safe, Durable and Economical S
 Reflective verge stones for Highways
 </li><li>
 A Pull out equipment for non-destructive testing of concrete. This is important substitute for imported equipment (Handled at SERC, Chennai)
-</li>
-<p>He has authored several books on Ferrocement structures and published more than 100 research papers in National and International journals / Conferences / Workshops / Seminars
-</p>
+</li></ul>
+He has authored several books on Ferrocement structures and published more than 100 research papers in National and International journals / Conferences / Workshops / Seminars
         <center>
           <button className={classes.close}
                   onClick={
@@ -129,6 +128,12 @@ A Pull out equipment for non-destructive testing of concrete. This is important 
         </p>
         
       </div>
+      <div className={classes.Specialization} id="specs">
+          <h3>Designing, Planning and Coordinating Civil Engineering, Architecture and Allied Fields</h3>
+        </div>
+        <div className={classes.spiderContainer}>
+          <img id={classes.aocspider} src={AOCspiderImg}></img>
+        </div>
       <center>
         <table className={classes.Members}>
           <tr>

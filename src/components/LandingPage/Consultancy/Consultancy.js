@@ -4,18 +4,18 @@ import sec2 from "../../../assets/consultancy/img1.jpg";
 import sec3 from "../../../assets/consultancy/img2.jpg";
 import sec4 from "../../../assets/consultancy/img3.jpg";
 import classes from "./Consultancy.module.css";
-import AOCspider from '../../../assets/AOCspider.svg'
+
 
 const Consultancy = () => {
   return (
     <div>
       <div className={classes.Container1} id="consultancy">
-        <div className={classes.Specialization} id="specs">
+        {/* <div className={classes.Specialization} id="specs">
           <h2>Structural Design and Proof Checking</h2>
         </div>
         <div className={classes.spiderContainer}>
           <img id={classes.aocspider} src={AOCspider}></img>
-        </div>
+        </div> */}
         <div className={classes.headingStyle}>
           <div className={classes.headingLine}></div>
           <p>Areas Of Consultancy</p>

@@ -5,6 +5,9 @@ import img3 from "../../../assets/Works/img3.jpg";
 import img4 from "../../../assets/Works/img4.jpg";
 import img5 from "../../../assets/Works/img5.jpg";
 import img6 from "../../../assets/Works/img6.jpg";
+import bridge from "../../../assets/Works/bridge.png";
+import power_structure from "../../../assets/Works/power_structure.png";
+
 import { Fade } from "react-awesome-reveal";
 
 import classes from "./Work.module.css";
@@ -849,18 +852,10 @@ Water recycling and drip irrigation in American Centre, New Delhi
           <br />
           <ul>
             <li>
-            Assessment and strengthening of Fire Damaged building of M/s K.K. Kapoor Hosiery, Ludhiana, Punjab 
-            </li>    
+            Strengthening measures for St. James Church, Kashmiri Gate, New Delhi            </li>    
             <li>
-Assessment and strengthening of Fire Damaged building of Rajan Vinayak & Rakesh Kumar in Ludhiana, Punjab
+            Structural repair measures for mosque at Aden, Yemen.
 </li>    
-            <li> 
-Strengthening measures for fire damaged building of M/s Bludip Paints and Chemicals, Ghaziabad 
-</li>    
-            <li>
-Damage assessment and strengthening measures for fire affected buildings of Palm Green 
-Hotel and Resorts, Bakoli, Karnal road, Delhi 
-            </li>
           </ul>
           <center>
             <p
@@ -1029,7 +1024,8 @@ Hotel and Resorts, Bakoli, Karnal road, Delhi
             Design of internal roads of arrival and departure terminal of Hindon Airport, Ghaziabad 
             </li><li>
 Strengthening measures for Janak Setu, Delhi 
-</li><li>
+</li>
+<li>
 Strengthening measures for old Nizamuddin bridge, New Delhi 
 </li><li>
 Strengthening measures for old Wazirabad bridge, New Delhi 
@@ -1065,7 +1061,7 @@ Structural design and drawings for addition of one lane in existing bridge in Bu
         <div className={classes.work_box}>
           <div>
             <Fade direction={"left"} triggerOnce={true}>
-              <img src={img6} alt=""></img>
+              <img src={bridge} alt=""></img>
             </Fade>
           </div>
           <Fade direction={"right"} triggerOnce={true}>
@@ -1237,7 +1233,7 @@ Underwater Inspection, investigations and strengthening of Ramnagar Powerhouse, 
         <div className={classes.work_box}>
           <div>
             <Fade direction={"left"} triggerOnce={true}>
-              <img src={img6} alt=""></img>
+              <img src={power_structure} alt=""></img>
             </Fade>
           </div>
           <Fade direction={"right"} triggerOnce={true}>
@@ -1407,7 +1403,7 @@ building as per EPA norms
             </p>
           </center>
         </span>
-        <div className={classes.work_box}>
+        {/* <div className={classes.work_box}>
           <div>
             <Fade direction={"left"} triggerOnce={true}>
               <img src={img6} alt=""></img>
@@ -1476,7 +1472,7 @@ building as per EPA norms
               </p>
             </div>
           </Fade>
-        </div>
+        </div> */}
       </div>
     </div>
   );
