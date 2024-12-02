@@ -228,8 +228,9 @@ Structural Safety Audit and Strengthening Measures for Multistoreyed Residential
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
+                
               </p>
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/ConditionAssessment"> know more</a>
             </div>
           </Fade>
         </div>
@@ -409,8 +410,9 @@ Structural Safety Audit and Strengthening Measures for Multistoreyed Residential
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
+                
               </p>
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/FireDamagedStructures"> know more</a>
             </div>
           </Fade>
         </div>
@@ -548,7 +550,7 @@ Structural design and drawings for advertisement structures over DND flyway, Del
                 Proof Checking, Structural Design and Drawings
               </h5>
               <div id={classes.line}></div>
-              <p
+              {/* <p
                 className={classes.knowMore}
                 onClick={() => {
                   document
@@ -600,8 +602,8 @@ Structural design and drawings for advertisement structures over DND flyway, Del
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
-              </p>
+              </p> */}
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/ProofChecking"> know more</a>
             </div>
           </Fade>
         </div>
@@ -777,8 +779,8 @@ Water recycling and drip irrigation in American Centre, New Delhi
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
               </p>
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/Strengthening"> know more</a>
             </div>
           </Fade>
         </div>
@@ -946,8 +948,8 @@ Water recycling and drip irrigation in American Centre, New Delhi
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
               </p>
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/HeritageStructures"> know more</a>
             </div>
           </Fade>
         </div>
@@ -1122,8 +1124,8 @@ Structural design and drawings for addition of one lane in existing bridge in Bu
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
               </p>
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/HighwaysBridges"> know more</a>
             </div>
           </Fade>
         </div>
@@ -1295,8 +1297,8 @@ Underwater Inspection, investigations and strengthening of Ramnagar Powerhouse, 
                     .classList.add(classes.pointContainerMobC);
                 }}
               >
-                know more
               </p>
+              <a style={{ marginLeft: "0", marginRight: "170px" }} className={classes.knowMore}  href="/PowerStructures"> know more</a>
             </div>
           </Fade>
         </div>
