@@ -224,6 +224,7 @@ ol {
 
 ul {
   padding: 20px;
+  line-height: 35px;
 }
 
 ol li {
@@ -235,3 +236,8 @@ ol li {
 .ImageHeight{
 height: 250px !important;
 }
+.ImageHeightNew{
+  height: 300px !important;
+  width: 350px !important;
+  padding: 2px !important;
+  }

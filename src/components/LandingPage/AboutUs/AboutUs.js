@@ -129,10 +129,10 @@ He has authored several books on Ferrocement structures and published more than 
         
       </div>
       <div className={classes.Specialization} id="specs">
-          <h3>Designing, Planning and Coordinating Civil Engineering, Architecture and Allied Fields</h3>
+          <h2>Designing, Planning and Coordinating Civil Engineering, Architecture and Allied Fields</h2>
         </div>
         <div className={classes.spiderContainer}>
-          <img id={classes.aocspider} src={AOCspiderImg}></img>
+          <img id={classes.aocspider} style={{width:790}} src={AOCspiderImg}></img>
         </div>
       <center>
         <table className={classes.Members}>
@@ -145,8 +145,8 @@ He has authored several books on Ferrocement structures and published more than 
           </tr>
           <tr>
             <td className={classes.imgAdjustR}>
-              <center>
-                <img alt="img" id="CEO" src={CEOimg} 
+              <center style={{"padding-left":150}}>
+                <img alt="img" id="CEO" style={{"height": "290px","width": "290px"}} src={CEOimg}  
                     onClick={ 
                     ()=>{
                       document.getElementById('bio').style.height="70vh";
@@ -158,7 +158,7 @@ He has authored several books on Ferrocement structures and published more than 
                     }
                 />
               </center>
-              <center>
+              <center style={{"padding-left":150}}>
                 <p className={classes.name}>
                   Er. P. C. <b>Sharma</b>
                 </p>

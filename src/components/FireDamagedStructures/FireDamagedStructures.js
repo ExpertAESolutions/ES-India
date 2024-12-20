@@ -1,10 +1,21 @@
 import React from "react";
 import classes from "./FireDamagedStructures.module.css";
 import Header from "../../components/nav-header/nav our team";
-import Image1 from "../../assets/Works/FireDamagedStructures1.PNG"
+//import Image1 from "../../assets/Works/FireDamagedStructures1.PNG"
+import Image1 from "../../assets/Works//Single_FireDamagedStructures/Single_Image1.png"
+import Image1_1 from "../../assets/Works//Single_FireDamagedStructures/Single_Image1_1.png"
+import Image1_2 from "../../assets/Works//Single_FireDamagedStructures/Single_Image1_2.png"
+
 import Image2 from "../../assets/Works/FireDamagedStructures2.PNG"
-import Image3 from "../../assets/Works/FireDamagedStructures3.PNG"
-import Image4 from "../../assets/Works/FireDamagedStructures4.PNG"
+//import Image3 from "../../assets/Works/FireDamagedStructures3.PNG"
+import Image3 from "../../assets/Works//Single_FireDamagedStructures/Single_Image3.png"
+import Image3_1 from "../../assets/Works//Single_FireDamagedStructures/Single_Image3_1.png"
+import Image3_2 from "../../assets/Works//Single_FireDamagedStructures/Single_Image3_2.png"
+
+//import Image4 from "../../assets/Works/FireDamagedStructures4.PNG"
+import Image4 from "../../assets/Works//Single_FireDamagedStructures/Single_Image4.png"
+import Image4_1 from "../../assets/Works//Single_FireDamagedStructures/Single_Image4_1.png"
+
 import Footer from "../Footer/Footer";
 import background from "../../assets/nav menu/background.svg";
 import { Helmet } from "react-helmet";
@@ -53,18 +64,23 @@ Hotel and Resorts, Bakoli, Karnal road, Delhi
             </li>
             {/* Assessment1 */}
             <div className={classes.parent}>
-            <img className={classes.ImageHeight} src={Image1} alt="Damage Assessment and Strengthening Measures for Fire Affacted Palm Green Hotel and Resorts, Bakoli, NhH1, G.T. Karnal Road, Delhi"></img>
+            <img className={classes.ImageHeightNew} src={Image1} alt="Damage Assessment and Strengthening Measures for Fire Affacted Palm Green Hotel and Resorts, Bakoli, NhH1, G.T. Karnal Road, Delhi"></img>
+            <img className={classes.ImageHeightNew} src={Image1_1} alt="Damage Assessment and Strengthening Measures for Fire Affacted Palm Green Hotel and Resorts, Bakoli, NhH1, G.T. Karnal Road, Delhi"></img>
+            <img className={classes.ImageHeightNew} src={Image1_2} alt="Damage Assessment and Strengthening Measures for Fire Affacted Palm Green Hotel and Resorts, Bakoli, NhH1, G.T. Karnal Road, Delhi"></img>
 <p>Damage Assessment and Strengthening Measures for Fire Affacted Palm Green Hotel and Resorts, Bakoli, NhH1, G.T. Karnal Road, Delhi</p>
 
-<img src={Image2} className={classes.ImageHeight} alt="Fire Damage Assessment and Rehabilitation Measures for Bludip Paints and Chemicals Building at Meerut Road Industrial Area, Ghaziabad"></img>
+<img src={Image2} className={classes.ImageHeightNew} alt="Fire Damage Assessment and Rehabilitation Measures for Bludip Paints and Chemicals Building at Meerut Road Industrial Area, Ghaziabad"></img>
 <p>Fire Damage Assessment and Rehabilitation Measures for Bludip Paints and Chemicals
 Building at Meerut Road Industrial Area, Ghaziabad
 </p>
 
-<img className={classes.ImageHeight} src={Image3} alt="Assessment and Strengthening of Fire Damaged Building of Rajan Vinayak & Rakesh Kumar, Ludhiana, Punjab"></img>
+<img className={classes.ImageHeightNew} src={Image3} alt="Assessment and Strengthening of Fire Damaged Building of Rajan Vinayak & Rakesh Kumar, Ludhiana, Punjab"></img>
+<img className={classes.ImageHeightNew} src={Image3_1} alt="Assessment and Strengthening of Fire Damaged Building of Rajan Vinayak & Rakesh Kumar, Ludhiana, Punjab"></img>
+<img className={classes.ImageHeightNew} src={Image3_2} alt="Assessment and Strengthening of Fire Damaged Building of Rajan Vinayak & Rakesh Kumar, Ludhiana, Punjab"></img>
 <p>Assessment and Strengthening of Fire Damaged Building of Rajan Vinayak & Rakesh Kumar, Ludhiana, Punjab</p>
 
-<img className={classes.ImageHeight} src={Image4} alt="Assessment and Strengthening of Fire Damaged K.K. Kapoor Hosiery Building, Ludhiana, Punjab"></img>
+<img className={classes.ImageHeightNew} src={Image4} alt="Assessment and Strengthening of Fire Damaged K.K. Kapoor Hosiery Building, Ludhiana, Punjab"></img>
+<img className={classes.ImageHeightNew} src={Image4_1} alt="Assessment and Strengthening of Fire Damaged K.K. Kapoor Hosiery Building, Ludhiana, Punjab"></img>
 <p>Assessment and Strengthening of Fire Damaged K.K. Kapoor Hosiery Building, Ludhiana, Punjab</p>
           </div>
           </ul>

@@ -28,13 +28,13 @@ const Spec = () => {
           </div>
           <div className={classes.rightSec1}>
             <h5>Buildings</h5>
-            <span>(residential, industrial, institutional, commercial, shopping complex, malls, etc.)</span>
+            <span style={{float: "left",marginLeft: -20 }}>(residential, industrial, institutional, commercial, shopping complex, malls, etc.)</span>
           </div>
         </div>
         <div className={classes.Section}>
           <div className={classes.leftSec2}>
             <h5>Highways</h5>
-            <span>(Flexible as well as Rigid)</span>
+            <span style={{float: "right",marginRight: -40 }}>(Flexible as well as Rigid)</span>
           </div>
           <div className={classes.rightSec2}>
             <img src={Highway} alt="" />

@@ -1,10 +1,21 @@
 import React from "react";
 import classes from "./ProofChecking.module.css";
 import Header from "../../components/nav-header/nav our team";
-import Image1 from "../../assets/Works/ProofChecking1.PNG"
+//import Image1 from "../../assets/Works/ProofChecking1.PNG"
+import Image1 from "../../assets/Works/Single_ProofChecking/Single_Image1.png"
+import Image1_1 from "../../assets/Works/Single_ProofChecking/Single_Image1_1.png"
+import Image1_2 from "../../assets/Works/Single_ProofChecking/Single_Image1_2.png"
+
 import Image2 from "../../assets/Works/ProofChecking2.PNG"
-import Image3 from "../../assets/Works/ProofChecking3.PNG"
-import Image4 from "../../assets/Works/ProofChecking4.PNG"
+//import Image3 from "../../assets/Works/ProofChecking3.PNG"
+import Image3 from "../../assets/Works/Single_ProofChecking/Single_Image3.png"
+import Image3_1 from "../../assets/Works/Single_ProofChecking/Single_Image3_1.png"
+
+
+//import Image4 from "../../assets/Works/ProofChecking4.PNG"
+import Image4 from "../../assets/Works/Single_ProofChecking/Single_Image4.png"
+import Image4_1 from "../../assets/Works/Single_ProofChecking/Single_Image4_1.png"
+
 import Footer from "../Footer/Footer";
 import background from "../../assets/nav menu/background.svg";
 import { Helmet } from "react-helmet";
@@ -69,17 +80,21 @@ Structural design and drawings for advertisement structures over DND flyway, Del
             </li>
             {/* Assessment1 */}
             <div className={classes.parent}>
-            <img className={classes.ImageHeight} src={Image1} alt="Proof Checking of Design and Drawings of Advertising Structures of DND Flyway, Noida"></img>
+            <img className={classes.ImageHeightNew}  src={Image1} alt="Proof Checking of Design and Drawings of Advertising Structures of DND Flyway, Noida"></img>
+            <img className={classes.ImageHeightNew}  src={Image1_1} alt="Proof Checking of Design and Drawings of Advertising Structures of DND Flyway, Noida"></img>
+            <img className={classes.ImageHeightNew}  src={Image1_2} alt="Proof Checking of Design and Drawings of Advertising Structures of DND Flyway, Noida"></img>
 <p>Proof Checking of Design and Drawings of Advertising Structures of DND Flyway, Noida</p>
 
-<img src={Image2} className={classes.ImageHeight} alt="Analysis and design of 80 Number Residential Houses and Community Centre (PMAY) at Rampura, Pragana Baran, Bullandsahar, UP"></img>
+<img src={Image2} className={classes.ImageHeightNew} alt="Analysis and design of 80 Number Residential Houses and Community Centre (PMAY) at Rampura, Pragana Baran, Bullandsahar, UP"></img>
 <p>Analysis and design of 80 Number Residential Houses and Community Centre (PMAY) at Rampura, Pragana Baran, Bullandsahar, UP
 </p>
 
-<img className={classes.ImageHeight} src={Image3} alt="Structural Analysis and Design of Spans between Existing Pier P6 and Pier P8 of Kolaghat Bridge, District Shahjahanpur, UP"></img>
+<img className={classes.ImageHeightNew} src={Image3} alt="Structural Analysis and Design of Spans between Existing Pier P6 and Pier P8 of Kolaghat Bridge, District Shahjahanpur, UP"></img>
+<img className={classes.ImageHeightNew} src={Image3_1} alt="Structural Analysis and Design of Spans between Existing Pier P6 and Pier P8 of Kolaghat Bridge, District Shahjahanpur, UP"></img>
 <p>Structural Analysis and Design of Spans between Existing Pier P6 and Pier P8 of Kolaghat Bridge, District Shahjahanpur, UP</p>
 
-<img className={classes.ImageHeight} src={Image4} alt="Structural design and drawings for addition/alteration in existing four storeyed building at Main Market, Greater Kailash-II, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image4} alt="Structural design and drawings for addition/alteration in existing four storeyed building at Main Market, Greater Kailash-II, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image4_1} alt="Structural design and drawings for addition/alteration in existing four storeyed building at Main Market, Greater Kailash-II, New Delhi"></img>
 <p>Structural design and drawings for addition/alteration in existing four storeyed building at Main Market, Greater Kailash-II, New Delhi</p>
           </div>
           </ul>

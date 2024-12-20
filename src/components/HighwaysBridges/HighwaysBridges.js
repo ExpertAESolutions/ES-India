@@ -2,7 +2,11 @@ import React from "react";
 import classes from "./HighwaysBridges.module.css";
 import Header from "../../components/nav-header/nav our team";
 import Image1 from "../../assets/Works/HighwaysBridges1.PNG"
-import Image2 from "../../assets/Works/HighwaysBridges2.png"
+//import Image2 from "../../assets/Works/HighwaysBridges2.png"
+import Image2 from "../../assets/Works/Single_HighwaysBridges/Single_Image2.png"
+import Image2_1 from "../../assets/Works/Single_HighwaysBridges/Single_Image2_1.png"
+import Image2_2 from "../../assets/Works/Single_HighwaysBridges/Single_Image2_2.png"
+
 import Footer from "../Footer/Footer";
 import background from "../../assets/nav menu/background.svg";
 import { Helmet } from "react-helmet";
@@ -50,10 +54,12 @@ Structural design and drawings for addition of one lane in existing bridge in Bu
             </li>
             {/* Assessment1 */}
             <div className={classes.parent}>
-            <img className={classes.ImageHeight} src={Image1} alt="Strengthening measures for Old Nizamuddin bridge, New Delhi"></img>
+            <img className={classes.ImageHeightNew} src={Image1} alt="Strengthening measures for Old Nizamuddin bridge, New Delhi"></img>
 <p>Strengthening measures for Old Nizamuddin bridge, New Delhi</p>
 
-<img src={Image2} className={classes.ImageHeight} alt="Strengthening measures for Wazirabad bridge, New Delhi"></img>
+<img src={Image2} className={classes.ImageHeightNew} alt="Strengthening measures for Wazirabad bridge, New Delhi"></img>
+<img src={Image2_1} className={classes.ImageHeightNew} alt="Strengthening measures for Wazirabad bridge, New Delhi"></img>
+<img src={Image2_2} className={classes.ImageHeightNew} alt="Strengthening measures for Wazirabad bridge, New Delhi"></img>
 <p>Strengthening measures for Wazirabad bridge, New Delhi
 </p>
           </div>

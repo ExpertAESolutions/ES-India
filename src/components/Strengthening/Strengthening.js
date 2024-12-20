@@ -6,8 +6,15 @@ import Image2 from "../../assets/Works/Strengthening2.PNG"
 import Image3 from "../../assets/Works/Strengthening3.PNG"
 import Image4 from "../../assets/Works/Strengthening4.PNG"
 import Image5 from "../../assets/Works/Strengthening5.PNG"
-import Image6 from "../../assets/Works/Strengthening6.PNG"
-import Image7 from "../../assets/Works/Strengthening7.PNG"
+//import Image6 from "../../assets/Works/Strengthening6.PNG"
+import Image6 from "../../assets/Works/Single_Strength/Simgle_Image6.png"
+import Image6_1 from "../../assets/Works/Single_Strength/Simgle_Image6_1.png"
+import Image6_2 from "../../assets/Works/Single_Strength/Single_Strengthening_003.PNG"
+
+//import Image7 from "../../assets/Works/Strengthening7.PNG"
+import Image7 from "../../assets/Works/Single_Strength/Simgle_Image7.png"
+import Image7_1 from "../../assets/Works/Single_Strength/Simgle_Image7_1.png"
+
 import Footer from "../Footer/Footer";
 import background from "../../assets/nav menu/background.svg";
 import { Helmet } from "react-helmet";
@@ -57,26 +64,29 @@ Water recycling and drip irrigation in American Centre, New Delhi
             </li>
             {/* Assessment1 */}
             <div className={classes.parent}>
-            <img className={classes.ImageHeight} src={Image1} alt="Earthquake vulnerability assessment of UNICEF office building at Lucknow, India"></img>
+            <img className={classes.ImageHeightNew} src={Image1} alt="Earthquake vulnerability assessment of UNICEF office building at Lucknow, India"></img>
 <p>Earthquake vulnerability assessment of UNICEF office building at Lucknow, India</p>
 
-<img src={Image2} className={classes.ImageHeight} alt="Earthquake vulnerability assessment of UNICEF office building at Patna, India"></img>
+<img src={Image2} className={classes.ImageHeightNew} alt="Earthquake vulnerability assessment of UNICEF office building at Patna, India"></img>
 <p>Earthquake vulnerability assessment of UNICEF office building at Patna, India
 </p>
 
-<img className={classes.ImageHeight} src={Image3} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-39, Noida"></img>
+<img className={classes.ImageHeightNew} src={Image3} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-39, Noida"></img>
 <p>Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-39, Noida</p>
 
-<img className={classes.ImageHeight} src={Image4} alt="Earthquake vulnerability assessment of UNICEF office building at Guwahati, India"></img>
+<img className={classes.ImageHeightNew} src={Image4} alt="Earthquake vulnerability assessment of UNICEF office building at Guwahati, India"></img>
 <p>Earthquake vulnerability assessment of UNICEF office building at Guwahati, India</p>
 
-<img className={classes.ImageHeight} src={Image5} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-21B, Faridabad, Haryana"></img>
+<img className={classes.ImageHeightNew} src={Image5} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-21B, Faridabad, Haryana"></img>
 <p>Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-21B, Faridabad, Haryana</p>
           
-<img className={classes.ImageHeight} src={Image6} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Mayur Vihar, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image6} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Mayur Vihar, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image6_1} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Mayur Vihar, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image6_2} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Mayur Vihar, New Delhi"></img>
 <p>Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Mayur Vihar, New Delhi</p>
           
-<img className={classes.ImageHeight} src={Image7} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-25, Rohini, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image7} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-25, Rohini, New Delhi"></img>
+<img className={classes.ImageHeightNew} src={Image7_1} alt="Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-25, Rohini, New Delhi"></img>
 <p>Condition Assessment and Strengthening Measures for Multi-Storeyed Building of Ryan International School, Sector-25, Rohini, New Delhi</p>
 
           </div>

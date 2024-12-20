@@ -2,7 +2,7 @@ import React from "react";
 import classes from "./Footer.module.css";
 import Logo from "../../assets/Logo.svg";
 import { MdEmail } from "react-icons/md";
-import { IoCall } from "react-icons/all";
+import { IoCall } from "react-icons/io5";
 import { MdLocationOn } from "react-icons/md";
 import { BiCopyright } from "react-icons/bi";
 // import { Mailto } from "react-mailto";
@@ -43,7 +43,7 @@ const Footer = () => {
                 <MdLocationOn className={classes.Icons} />
               </div>
               <div className={classes.Address}>
-                Ghaziabad Office: II-F-163 Nehru Nagar Ghaziabad, UP PIN-201001
+                Ghaziabad Office: II-F-163 Nehru Nagar Ghaziabad, U.P., PIN-201001,
                 India
               </div>
             </div>

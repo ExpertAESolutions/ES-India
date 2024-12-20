@@ -1,7 +1,12 @@
 import React from "react";
 import classes from "./PowerStructures.module.css";
 import Header from "../../components/nav-header/nav our team";
-import Image1 from "../../assets/Works/PowerStructures1.png"
+//import Image1 from "../../assets/Works/PowerStructures1.png"
+import Image1 from "../../assets/Works/Single_PowerStructures/Single_Image1.png"
+import Image1_1 from "../../assets/Works/Single_PowerStructures/Single_Image1_1.png"
+import Image1_2 from "../../assets/Works/Single_PowerStructures/Single_Image1_2.png"
+import Image1_3 from "../../assets/Works/Single_PowerStructures/Single_Image1_3.png"
+
 import Footer from "../Footer/Footer";
 import background from "../../assets/nav menu/background.svg";
 import { Helmet } from "react-helmet";
@@ -45,7 +50,10 @@ Underwater Inspection, investigations and strengthening of Ramnagar Powerhouse, 
             </li>
             {/* Assessment1 */}
             <div className={classes.parent}>
-            <img className={classes.ImageHeight} src={Image1} alt="Underwater Investigation & Inspection of Cylindrical Type Power Intake Gate and Associated Structure & Equipment of Ramganga Power House at Kalagarh, Uttarakhand"></img>
+            <img className={classes.ImageHeightNew} src={Image1} alt="Underwater Investigation & Inspection of Cylindrical Type Power Intake Gate and Associated Structure & Equipment of Ramganga Power House at Kalagarh, Uttarakhand"></img>
+            <img className={classes.ImageHeightNew} src={Image1_1} alt="Underwater Investigation & Inspection of Cylindrical Type Power Intake Gate and Associated Structure & Equipment of Ramganga Power House at Kalagarh, Uttarakhand"></img>
+            <img className={classes.ImageHeightNew} src={Image1_2} alt="Underwater Investigation & Inspection of Cylindrical Type Power Intake Gate and Associated Structure & Equipment of Ramganga Power House at Kalagarh, Uttarakhand"></img>
+            <img className={classes.ImageHeightNew} src={Image1_3} alt="Underwater Investigation & Inspection of Cylindrical Type Power Intake Gate and Associated Structure & Equipment of Ramganga Power House at Kalagarh, Uttarakhand"></img>
 <p>Underwater Investigation & Inspection of Cylindrical Type Power Intake Gate and Associated Structure & Equipment of Ramganga Power House at Kalagarh, Uttarakhand</p>
           </div>
           </ul>
